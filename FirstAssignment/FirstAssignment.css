@@ -1,0 +1,31 @@
+.header
+{
+    text-align: center;
+    font-size: xx-large;
+}
+.border1
+{
+    border-radius: 3px;
+    border: 4px dashed;
+    border-radius: 10px;
+    background : linear-gradient(to left, black, red)
+    
+} 
+.border2
+{
+    border :solid;
+   border-color: white;
+    border-radius: 5%;
+    border-width: 40px;  
+}
+.background
+{
+    background-color: black;
+    color: white;
+}
+#grad{
+    padding-left: 1%;
+    border: dotted;
+    background-image: linear-gradient(to right, black , red); 
+    color: white;
+  }
