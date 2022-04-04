@@ -1,0 +1,117 @@
+.rightcol
+{
+    display: flex;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 25%;
+    margin-top: 40px;
+}
+.rightimg
+{
+    margin-top: 50px;
+    background-color: black;
+    border-radius: 100%;
+    width: 40%;
+    margin-left: 30%;
+}
+.righttext
+{
+    color: white;
+    font-size: x-large;
+   
+}
+.rightpad
+{
+    margin-left: 10%;
+    margin-top:10% ;
+}
+.name
+{
+    margin-left: 25%;
+    margin-top: 20px;
+    color: white;
+}
+#about
+{
+    margin-top: 3%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    font-size: x-large;
+    font-family: 'Pacifico', cursive;
+    /* background-color: antiquewhite; */
+}
+.dsa
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10%; 
+    text-align: center; 
+    font-size: larger;
+    border: solid;
+    border-color: white;
+
+}
+.dsa:hover
+{
+    background-color: white;
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+    transform: scale(1.5);
+}
+.para
+{
+    border: double;
+    padding: 10px;
+    background-color: white;
+}
+#skills
+{
+    /* background-image: url(https://cdnil0.fiverrcdn.com/photos/941502/v2_680/CoverDONE_copy.jpg); */
+    /* background-image: linear-gradient(45deg, pink,violet,yellow); */
+    background-color: white;
+    /* background-color:  #ff4c68; */
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.tech
+{
+    text-align: center;
+    border: solid;
+}
+.tech:hover
+{
+    cursor: pointer;
+    transform: scale(1.5);
+    z-index: 1;
+    background-color: black;
+    color: white;
+    border:solid;
+    border-color: chartreuse;
+    border-radius: 20px;
+}
+#projects
+{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-color: #ff4c68;
+    /* background-image: linear-gradient(45deg,black,red); */
+}
+.snip
+{
+    text-align: center;
+}
+.snip:hover
+{
+    z-index: 1;
+    transform: scale(1.5);
+}
+#contact
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
